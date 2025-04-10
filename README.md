@@ -1,4 +1,4 @@
-# Task3_ElevateLabs
+# Task3_ElevateLabs(Data-Driven Insights from the Sakila DVD Rental Database Using SQL)<br>
 
 1.  Project analyzes the Sakila movie rental database using SQL.<br>
 
